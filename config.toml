@@ -1,0 +1,4 @@
+baseURL = 'https://thegamershollow.github.io/wiiu.guide/'
+languageCode = 'en-us'
+title = 'Wii U . Guide'
+theme = "hugo-theme-techdoc"
